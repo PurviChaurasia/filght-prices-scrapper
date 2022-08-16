@@ -1,0 +1,1 @@
+BASE_URL = "https://www.booking.com/flights/index.en.html?aid=304142&label=gen173nr-1DCAEoggI46AdIM1gEaGyIAQGYAQm4ARfIAQzYAQPoAQGIAgGoAgO4ApGUmpYGwAIB0gIkMmFjZGY5MGItMGI2ZS00YThmLWFlMDEtNDZhYjY0YjNlZDEx2AIE4AIB&sid=69aeee4b9d60be5b1da250a4d4a23a74"
